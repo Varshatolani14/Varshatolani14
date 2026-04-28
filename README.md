@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:B8962E&height=200&section=header&text=Varsha%20Tolani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Researcher%20%7C%20Undergraduate%20Researcher%20%7C%20Software%20Engineer&descAlignY=58&descSize=16&descColor=c8d8e8&animation=fadeIn" />
-
-</div>
 
 ---
 
