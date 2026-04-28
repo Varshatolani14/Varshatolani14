@@ -225,17 +225,10 @@ Real-time facial emotion recognition using deep learning with responsible deploy
 
 ---
 
-## 🔝 Top Contributed Repos
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Varshatolani14&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=1B2A4A&title_color=B8962E&text_color=c8d8e8)
-
-</div>
 
 ---
 
-<div align="center">
 
 *"Building AI that is grounded, explainable, and accessible — one experiment at a time."*
 
