@@ -19,7 +19,7 @@ class VarshaTolani:
     def __init__(self):
         self.name         = "Varsha Tolani"
         self.location     = "Bangalore, India"
-        self.education    = ["B.Tech AI/ML @ BMSCE (8.7 CGPA)", 
+        self.education    = ["B.Tech AI/ML @ BMSCE (8.8 CGPA)", 
                              "B.Sc Data Science @ IIT Madras (7.0 CGPA)"]
         self.research     = ["LLMs & RAG", "Multimodal AI", 
                              "Time-Series Forecasting", "Accessibility AI"]
